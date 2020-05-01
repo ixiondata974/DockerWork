@@ -9,6 +9,6 @@ echo "MySQL Server info: ".$mysql->host_info;
 	<title></title>
 </head>
 <body>
-	<h1>Voila !!!</h1>
+	<h1>Voila </h1>
 </body>
 </html>
